@@ -1,4 +1,4 @@
-![Vipul Ray Banner Image](./banner.jpg)
+![Vipul Ray Banner Image](banner.jpg)
 <!-- <h2 align='center'>Vipul Ray @ finger-wizard</h2>
 <p align='center'><b>Undergraduate Student at Aravali College of Engineering and Management (ACEM)</b></p> -->
 
