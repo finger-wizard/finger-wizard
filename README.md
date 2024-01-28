@@ -12,13 +12,18 @@ I'm Vipul RAY!
 <h2>Welcome to my GitHub Profile</h2>
 - **🧑🏻‍💻 Passionated web developer**<br>
 - **⚒️ Learning and exploring web**<br>
-- <i>Currently:</i> B Tech CSE Student at Aravali College of Engineering and Management (ACEM).
+- <i>Currently:</i> B Tech CSE Student at Aravali College of Engineering and Management (ACEM) Faridabad.
+- 📁 Have a look at my Repos & do Leave a ⭐ if you like my work 👨‍💻
+- 🌐 Visit my [personal website](https://www.vipulray.com/) for more details.
 
 
 <h2>💻 I'm Currently learning</h2>
 
 - Full Stack Web Development
 - Data Structures and Algorithms
+- AWS(Amazon Web Services)
+- MERN Stack
+- DBMS
 
 
 <h2>My Stats</h2>
@@ -40,6 +45,11 @@ I'm Vipul RAY!
 <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhiman&layout=compact&count_private=true&langs_count=10">
+</p>  
+
 
 
 
