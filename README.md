@@ -47,7 +47,7 @@ I'm Vipul RAY!
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhiman&layout=compact&count_private=true&langs_count=10">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=finger-wizard&layout=compact&count_private=true&langs_count=10">
 </p>  
 
 
