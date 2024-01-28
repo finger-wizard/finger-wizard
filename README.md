@@ -14,7 +14,7 @@ I'm Vipul RAY!
 - **⚒️ Learning and exploring web**<br>
 - <i>Currently:</i> B Tech CSE Student at Aravali College of Engineering and Management (ACEM) Faridabad.<br>
 - 📁 Have a look at my Repos & do Leave a ⭐ if you like my work 👨‍💻.<br>
-- 🌐 Visit my [personal website](https://www.vipulray.com/) for more details.<br>
+- 🌐 Visit my [personal website]-<a href="https://finger-wizard.github.io/vipulray/">Click</a> for more details.<br>
 
 
 <h2>💻 I'm Currently learning</h2>
