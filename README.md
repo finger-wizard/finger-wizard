@@ -52,7 +52,6 @@ I'm Vipul RAY!
 
 
 
-
 <h2> About Vipul RAY⚡:</h2>
 
 I'm an Undergraduate Student living in Faridabad, HR. Outside Tech, I love geopolitics, enjoy music and explore nature outdoors. If you are around Faridabad, drop an email and let's catch-up over Coffee!
