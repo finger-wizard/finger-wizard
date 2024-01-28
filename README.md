@@ -12,9 +12,9 @@ I'm Vipul RAY!
 <h2>Welcome to my GitHub Profile</h2>
 - **🧑🏻‍💻 Passionated web developer**<br>
 - **⚒️ Learning and exploring web**<br>
-- <i>Currently:</i> B Tech CSE Student at Aravali College of Engineering and Management (ACEM) Faridabad.
-- 📁 Have a look at my Repos & do Leave a ⭐ if you like my work 👨‍💻
-- 🌐 Visit my [personal website](https://www.vipulray.com/) for more details.
+- <i>Currently:</i> B Tech CSE Student at Aravali College of Engineering and Management (ACEM) Faridabad.<br>
+- 📁 Have a look at my Repos & do Leave a ⭐ if you like my work 👨‍💻.<br>
+- 🌐 Visit my [personal website](https://www.vipulray.com/) for more details.<br>
 
 
 <h2>💻 I'm Currently learning</h2>
